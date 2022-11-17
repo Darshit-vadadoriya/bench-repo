@@ -1,0 +1,66 @@
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _72d92bf1a20bbd46 -p********** _72d92bf1a20bbd46 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./demo.com/private/backups/20221111_120004-demo_com-database.sql.gz
+
+Backup Summary for demo.com at 2022-11-11 12:00:08.715187
+Config  : ./demo.com/private/backups/20221111_120004-demo_com-site_config_backup.json 94.0B
+Database: ./demo.com/private/backups/20221111_120004-demo_com-database.sql.gz         1011.8KiB
+Backup for Site demo.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _72d92bf1a20bbd46 -p********** _72d92bf1a20bbd46 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./demo.com/private/backups/20221111_180003-demo_com-database.sql.gz
+
+Backup Summary for demo.com at 2022-11-11 18:00:07.076826
+Config  : ./demo.com/private/backups/20221111_180003-demo_com-site_config_backup.json 94.0B
+Database: ./demo.com/private/backups/20221111_180003-demo_com-database.sql.gz         1011.8KiB
+Backup for Site demo.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _72d92bf1a20bbd46 -p********** _72d92bf1a20bbd46 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./demo.com/private/backups/20221112_120003-demo_com-database.sql.gz
+
+Backup Summary for demo.com at 2022-11-12 12:00:07.385456
+Config  : ./demo.com/private/backups/20221112_120003-demo_com-site_config_backup.json 94.0B
+Database: ./demo.com/private/backups/20221112_120003-demo_com-database.sql.gz         1011.8KiB
+Backup for Site demo.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _72d92bf1a20bbd46 -p********** _72d92bf1a20bbd46 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./demo.com/private/backups/20221112_180002-demo_com-database.sql.gz
+
+Backup Summary for demo.com at 2022-11-12 18:00:05.201728
+Config  : ./demo.com/private/backups/20221112_180002-demo_com-site_config_backup.json 94.0B
+Database: ./demo.com/private/backups/20221112_180002-demo_com-database.sql.gz         1011.8KiB
+Backup for Site demo.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _72d92bf1a20bbd46 -p********** _72d92bf1a20bbd46 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./demo.com/private/backups/20221114_120002-demo_com-database.sql.gz
+
+Backup Summary for demo.com at 2022-11-14 12:00:06.451703
+Config  : ./demo.com/private/backups/20221114_120002-demo_com-site_config_backup.json 94.0B
+Database: ./demo.com/private/backups/20221114_120002-demo_com-database.sql.gz         1011.8KiB
+Backup for Site demo.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _72d92bf1a20bbd46 -p********** _72d92bf1a20bbd46 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./demo.com/private/backups/20221114_180002-demo_com-database.sql.gz
+
+Backup Summary for demo.com at 2022-11-14 18:00:05.988091
+Config  : ./demo.com/private/backups/20221114_180002-demo_com-site_config_backup.json 94.0B
+Database: ./demo.com/private/backups/20221114_180002-demo_com-database.sql.gz         1011.8KiB
+Backup for Site demo.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _72d92bf1a20bbd46 -p********** _72d92bf1a20bbd46 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./demo.com/private/backups/20221115_120003-demo_com-database.sql.gz
+
+Backup Summary for demo.com at 2022-11-15 12:00:06.074014
+Config  : ./demo.com/private/backups/20221115_120003-demo_com-site_config_backup.json 94.0B
+Database: ./demo.com/private/backups/20221115_120003-demo_com-database.sql.gz         1011.8KiB
+Backup for Site demo.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _72d92bf1a20bbd46 -p********** _72d92bf1a20bbd46 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./demo.com/private/backups/20221115_180002-demo_com-database.sql.gz
+
+Backup Summary for demo.com at 2022-11-15 18:00:04.666168
+Config  : ./demo.com/private/backups/20221115_180002-demo_com-site_config_backup.json 94.0B
+Database: ./demo.com/private/backups/20221115_180002-demo_com-database.sql.gz         1011.8KiB
+Backup for Site demo.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _72d92bf1a20bbd46 -p********** _72d92bf1a20bbd46 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./demo.com/private/backups/20221116_120002-demo_com-database.sql.gz
+
+Backup Summary for demo.com at 2022-11-16 12:00:05.221195
+Config  : ./demo.com/private/backups/20221116_120002-demo_com-site_config_backup.json 94.0B
+Database: ./demo.com/private/backups/20221116_120002-demo_com-database.sql.gz         1011.8KiB
+Backup for Site demo.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _72d92bf1a20bbd46 -p********** _72d92bf1a20bbd46 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./demo.com/private/backups/20221116_180003-demo_com-database.sql.gz
+
+Backup Summary for demo.com at 2022-11-16 18:00:06.435239
+Config  : ./demo.com/private/backups/20221116_180003-demo_com-site_config_backup.json 94.0B
+Database: ./demo.com/private/backups/20221116_180003-demo_com-database.sql.gz         1011.8KiB
+Backup for Site demo.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _72d92bf1a20bbd46 -p********** _72d92bf1a20bbd46 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./demo.com/private/backups/20221117_120002-demo_com-database.sql.gz
+
+Backup Summary for demo.com at 2022-11-17 12:00:06.316455
+Config  : ./demo.com/private/backups/20221117_120002-demo_com-site_config_backup.json 94.0B
+Database: ./demo.com/private/backups/20221117_120002-demo_com-database.sql.gz         1011.8KiB
+Backup for Site demo.com has been successfully completed
